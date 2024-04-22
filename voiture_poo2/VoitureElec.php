@@ -1,7 +1,7 @@
 <?php
 
 // Création de la classe voitureElec
-class voitureElec extends voitureClass {
+class VoitureElec extends Voiture {
 
     // Déclaration des attributs
     // PRIVATE : personne (à part la classe elle-même) n'a le droit d'accéder à l'élément

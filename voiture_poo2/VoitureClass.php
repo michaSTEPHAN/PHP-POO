@@ -12,7 +12,7 @@ Votre programme de test devra afficher les informations des 2 voitures de la fa�
 <?php
 
 // Création de la classe voitureClass
-class voitureClass {
+class Voiture {
 
     // Déclaration des attributs
     // PRIVATE : personne (à part la classe elle-même) n'a le droit d'accéder à l'élément
